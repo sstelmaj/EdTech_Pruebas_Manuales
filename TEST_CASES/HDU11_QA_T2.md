@@ -1,0 +1,1 @@
+Validación de Algoritmo Equitativo: Probar la división de los porcentajes con números impares (ej: 3 instancias = 33.33%, 33.33%, 33.34%) para verificar cómo el sistema maneja estos casos

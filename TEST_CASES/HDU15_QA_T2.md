@@ -1,0 +1,1 @@
+Prueba de "Notas Vacías": Verificar que el flujo de advertencia se dispare correctamente y que el archivo final muestre la nota como "0" o "N/A" según el diseño, manteniendo el promedio coherente

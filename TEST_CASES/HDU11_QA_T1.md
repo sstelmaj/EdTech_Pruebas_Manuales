@@ -1,0 +1,1 @@
+Analisis de valores límite: Crear casos para el anális de valores límite, para sumas exactas (100%), por debajo (99.9%) y por encima (100.1%)
